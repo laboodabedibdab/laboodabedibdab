@@ -9,7 +9,7 @@
 user:        @laboodabedibdab
 status:      learning Python
 location:    [REDACTED]
-interests:   code, AI, futuristic tools
+interests:   code, AI, python
 ```
 🚀 I'm currently exploring:
 
@@ -23,15 +23,13 @@ interests:   code, AI, futuristic tools
 
     🖥️ OS: Linux / Arch / terminal life
 
-    🧰 Tools: VS Code, Git, curl, neovim
+    🧰 Tools: JetBrains, Git, curl, neovim
 
     🧪 Testing ground: local & cloud VMs
 
 📡 Contact uplink:
 
-    🛰️ Telegram: @yourhandle
-
-    📫 Email: you@example.com
+    🛰️ Telegram: [@whatdoesthefoxsay](https://t.me/whatdoesthefoxysay)
 
     “The best way to predict the future is to invent it.”
     — Alan Kay
