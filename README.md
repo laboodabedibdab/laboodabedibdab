@@ -8,7 +8,7 @@
 # system diagnostics
 user:        @laboodabedibdab
 status:      learning Python
-location:    [REDACTED]
+location:    [REDACTED :3]
 interests:   code, AI, python
 ```
 🚀 I'm currently exploring:
